@@ -1,1 +1,1 @@
-* This is a <span style="colors:red">TEST</span> README file!
+* This is a <span style="color:red">TEST</span> README file!
